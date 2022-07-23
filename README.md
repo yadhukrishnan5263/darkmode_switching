@@ -1,16 +1,6 @@
 # Dark or Light Mode switcher
 
-A new Flutter project.
+# Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220724-003140](https://user-images.githubusercontent.com/105173429/180619928-eecf2aeb-cb3e-4a86-b3bb-2431b28231c5.png)
+![Screenshot_20220724-003151](https://user-images.githubusercontent.com/105173429/180619933-88a7d8bd-a765-476f-9e0d-fcc6474ca663.png)
