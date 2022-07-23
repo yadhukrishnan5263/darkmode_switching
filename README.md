@@ -1,4 +1,4 @@
-# calculater_app
+# Dark or Light Mode switcher
 
 A new Flutter project.
 
